@@ -1,0 +1,23 @@
+{
+  "name": "cricinfo-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitin1498/CrickInfo-Scrapper.git"
+  },
+  "author": "Nitin Mokashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitin1498/CrickInfo-Scrapper/issues"
+  },
+  "homepage": "https://github.com/nitin1498/CrickInfo-Scrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
